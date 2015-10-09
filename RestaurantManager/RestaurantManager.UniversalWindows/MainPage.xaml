@@ -17,8 +17,8 @@
             <ColumnDefinition Width="0.5*" />
             <ColumnDefinition Width="0.5*" />
         </Grid.ColumnDefinitions>
-        <TextBlock Grid.Row="0" Grid.Column="0" Text="Restaurant Manager" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="64" TextAlignment="Center" Grid.ColumnSpan="2" />
-        <TextBlock Grid.Row="1" Grid.Column="0" Text="Internal Test Version" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="32" TextAlignment="Center" Grid.ColumnSpan="2" />
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Restaurant Manager" VerticalAlignment="Bottom" HorizontalAlignment="Center" TextAlignment="Center" Grid.ColumnSpan="2" />
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Internal Test Version" VerticalAlignment="Bottom" HorizontalAlignment="Center" TextAlignment="Center" Grid.ColumnSpan="2" />
 
         <Button Grid.Row="2" Grid.Column="0" Content="Go To Orders View" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click" />
         <Button Grid.Row="2" Grid.Column="1" Content="Submit Order" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click_1" />
